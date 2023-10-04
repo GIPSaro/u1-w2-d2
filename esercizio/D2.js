@@ -3,6 +3,8 @@
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio1 = "ESERCIZIO 1";
+console.log(esercizio1);
 let num1 = 17;
 let num2 = 10;
 if (num1 < num2) {
@@ -16,6 +18,8 @@ if (num1 < num2) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio2 = "ESERCIZIO 2";
+console.log(esercizio2);
 const numb2 = 7;
 
 if (numb2 !== 5) {
@@ -27,12 +31,16 @@ if (numb2 !== 5) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio3 = "ESERCIZIO 3";
+console.log(esercizio3);
 
 /* ESERCIZIO 4
   Scrivi un algoritmo per verificare che, dati due numeri interi, il valore di uno di essi sia 8 oppure se la loro addizione/sottrazione sia uguale a 8.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio4 = "ESERCIZIO 4";
+console.log(esercizio4);
 let b = 10;
 let a = 2;
 if (b > 2) {
@@ -46,6 +54,8 @@ if (b > 2) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio5 = "ESERCIZIO 5";
+console.log(esercizio5);
 let cartTotal = 55;
 let totalShoppingCart = cartTotal > 50 ? 0 : 10;
 console.log(
@@ -62,6 +72,8 @@ console.log(
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio6 = "ESERCIZIO 6";
+console.log(esercizio6);
 let cartTotal2 = 55;
 let totalShoppingCart2 = cartTotal < 50 ? 0 : 50;
 let blackfriday = cartTotal2 * 0.8;
@@ -83,6 +95,8 @@ console.log(
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio7 = "ESERCIZIO 7";
+console.log(esercizio7);
 const first = 2;
 const second = 3;
 const tird = 4;
@@ -99,6 +113,8 @@ if (first > second) {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio8 = "ESERCIZIO 8";
+console.log(esercizio8);
 let numero22 = 19;
 if (typeof numero22 === "number") {
   console.log("è un numero");
@@ -111,6 +127,8 @@ if (typeof numero22 === "number") {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio9 = "ESERCIZIO 9";
+console.log(esercizio9);
 
 /* ESERCIZIO 10
   Modifica la logica del seguente algoritmo in modo che mostri in console il messaggio corretto in ogni circostanza.
@@ -125,6 +143,8 @@ if (typeof numero22 === "number") {
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio10 = "ESERCIZIO 10";
+console.log(esercizio10);
 let val = 7;
 if (val < 5) {
   console.log("Meno di 5");
@@ -137,7 +157,8 @@ if (val < 5) {
 /* ESERCIZIO 11
   Fornito il seguente oggetto, scrivi del codice per aggiungere una proprietà "city", il cui valore sarà "Toronto".
 */
-
+let esercizio11 = "ESERCIZIO 11";
+console.log(esercizio11);
 const me = {
   name: "John",
   lastName: "Doe",
@@ -145,12 +166,15 @@ const me = {
 };
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 me.city = "Toronto";
 /* ESERCIZIO 12
   Lavorando sempre sull'oggetto precedentemente fornito, scrivi del codice per rimuovere la proprietà "lastName".
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio12 = "ESERCIZIO 12";
+console.log(esercizio12);
 
 delete me.lastName;
 console.log(me);
@@ -160,6 +184,8 @@ console.log(me);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio13 = "ESERCIZIO 13";
+console.log(esercizio13);
 me.skills.pop();
 console.log(me);
 
@@ -168,6 +194,8 @@ console.log(me);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio14 = "ESERCIZIO 14";
+console.log(esercizio14);
 
 let array = [];
 let array2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
@@ -179,6 +207,8 @@ console.log(array2);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let esercizio15 = "ESERCIZIO 15";
+console.log(esercizio15);
 array2.pop();
 array2.push(100);
 console.log(array2);
